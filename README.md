@@ -1,11 +1,11 @@
 # Erick Mendonça
 
-👋 Olá! Sou Erick Mendonça, tenho 20 anos e estou cursando Engenharia da Computação. Além disso, estou me aprofundando no desenvolvimento front-end/back-end através de cursos complementares. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades.
+👋 Olá! Sou Erick Mendonça, tenho 21 anos e estou cursando Engenharia da Computação. Além disso, estou me aprofundando no desenvolvimento front-end/back-end através de cursos complementares. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades.
 
 💡 **Interesses:**
 - Desenvolvimento Web (HTML, CSS, JavaScript)
-- Frameworks Front-End (React, Angular, Vue.js)
-- Engenharia de Software
+- Frameworks Front-End (React, Angular)
+- Engenharia da computação
 - Aprendizado Contínuo
 
 🚀 **Projetos e Aprendizado:**
